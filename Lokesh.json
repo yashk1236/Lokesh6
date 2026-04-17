@@ -23,6 +23,13 @@
         "key": "DEFF-E420-189F-0C34",
         "expirydate": "23-04-2026",
         "Allowoffline": false
+    },
+    
+    {
+        "device_id": "ce082d4829d41093",
+        "key": "593A-4F98-0053-B215",
+        "expirydate": "11-05-2026",
+        "Allowoffline": false
     }
 
 ]
