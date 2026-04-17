@@ -43,5 +43,11 @@
         "expirydate": "06-05-2026",
         "Allowoffline": false
     },
+        {
+        "device_id": "1ad6edc3f5a42cb0",
+        "key": "KM5G-Y7H8-89",
+        "expirydate": "17-05-2026",
+        "Allowoffline": false
+    }
 
 ]
