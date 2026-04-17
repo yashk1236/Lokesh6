@@ -16,7 +16,13 @@
         "key": "SUREND",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    
+    {
+        "device_id": "a71cf7cf66fe67a9",
+        "key": "DEFF-E420-189F-0C34",
+        "expirydate": "23-04-2026",
+        "Allowoffline": false
     }
-]
 
 ]
