@@ -30,6 +30,12 @@
         "key": "593A-4F98-0053-B215",
         "expirydate": "11-05-2026",
         "Allowoffline": false
+    },
+        {
+        "device_id": "71e60ea8db1abe21",
+        "key": "JKM8-R7HJ-99",
+        "expirydate": "13-05-2026",
+        "Allowoffline": false
     }
 
 ]
