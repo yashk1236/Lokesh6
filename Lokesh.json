@@ -75,6 +75,12 @@
         "key": "Y7JK-O7VB-YD",
         "expirydate": "03-05-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a4c0ada92a368eb5",
+        "key": "77YV-88FG-GD",
+        "expirydate": "02-05-2026",
+        "Allowoffline": false
     }
 
 ]
