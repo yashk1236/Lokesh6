@@ -55,6 +55,13 @@
         "key": "JK5H-J6H5-55",
         "expirydate": "18-05-2026",
         "Allowoffline": false
+    },
+    
+    {
+        "device_id": "1549790ee6f85f10",
+        "key": "KM5G-Y7H8-8",
+        "expirydate": "02-05-2026",
+        "Allowoffline": false
     }
 
 ]
