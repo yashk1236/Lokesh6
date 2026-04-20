@@ -95,11 +95,12 @@
         "expirydate": "19-05-2026",
         "Allowoffline": false
     },
-       {
+    {
         "device_id": "c0cec01ad5f7e1f4",
         "key": "JK-66G7-8JVB",
-        "expirydate": "20-05-2026",
+        "expirydate": "19-05-2026",
         "Allowoffline": false
     },
+    
 
 ]
