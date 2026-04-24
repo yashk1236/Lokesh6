@@ -101,6 +101,12 @@
         "expirydate": "19-05-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "0654d72191817b32",
+        "key": "KJ66-89FG-9Q",
+        "expirydate": "02-05-2026",
+        "Allowoffline": false
+    }
     
 
 ]
