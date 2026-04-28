@@ -125,6 +125,12 @@
         "expirydate": "20-05-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "e83df112f81342e2",
+        "key": "GH6H-67DF-AS",
+        "expirydate": "30-04-2026",
+        "Allowoffline": false
+    },
     
 
 ]
