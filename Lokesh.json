@@ -73,7 +73,7 @@
     {
         "device_id": "9526a4c80cc2d19e",
         "key": "Y7JK-O7VB-YD",
-        "expirydate": "03-05-2026",
+        "expirydate": "03-06-2026",
         "Allowoffline": false
     },
     {
@@ -148,6 +148,8 @@
         "key": "AG6J-SD67-77",
         "expirydate": "02-06-2026",
         "Allowoffline": false
+    },
+    
     },
     
 
