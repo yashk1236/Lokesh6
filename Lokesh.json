@@ -155,6 +155,12 @@
         "expirydate": "27-06-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "c1b1e179a200c192",
+        "key": "JK55-JK5A-A8",
+        "expirydate": "05-06-2026",
+        "Allowoffline": false
+    },
     
 
 ]
