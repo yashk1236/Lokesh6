@@ -191,6 +191,12 @@
         "expirydate": "03-06-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "6a857417fec388ba",
+        "key": "KKKK-77HJ-88",
+        "expirydate": "02-06-2026",
+        "Allowoffline": false
+    },
     
 
 ]
