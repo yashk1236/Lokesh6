@@ -185,6 +185,12 @@
         "expirydate": "02-06-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "59027f4312a2d257",
+        "key": "KJ66-889H-78",
+        "expirydate": "03-06-2026",
+        "Allowoffline": false
+    },
     
 
 ]
