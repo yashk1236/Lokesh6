@@ -209,5 +209,11 @@
         "expirydate": "05-06-2026",
         "Allowoffline": false
     },
+        {
+        "device_id": "0259cb2d74051c86",
+        "key": "KKKK55-7788-77",
+        "expirydate": "01-06-2026",
+        "Allowoffline": false
+    },
 
 ]
