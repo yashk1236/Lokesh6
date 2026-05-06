@@ -203,5 +203,11 @@
         "expirydate": "01-06-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "d1813bc1058d8cd4",
+        "key": "pravesh",
+        "expirydate": "05-06-2026",
+        "Allowoffline": false
+    },
 
 ]
